@@ -105,8 +105,7 @@ def main():
         <body>
         <div style="background-color: #666362;">
 
-    <H1 class="title-row">FINAL PROJECT</H1>
-    <a style="background-color: #666362;"  href="index.html"><h4 class= "page" >Discussion</h4></a>
+
    
 
 </div>
