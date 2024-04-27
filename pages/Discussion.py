@@ -32,21 +32,7 @@ def main():
     # Embedding HTML content
     st.markdown("""
         <!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Project</title>
-            <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" rel="stylesheet">
-            <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-            integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
-            rel="stylesheet"/>
-            <link href="style.css" rel="stylesheet">
-            <link rel="stylesheet" type="text/css" href="home.css">
-        </head>
-        <body>
-             <div><a   href="home.html"><h4 >Home</h4></a></div>
+
     <h1 style = "text-align: center;">Research Project</h1>
     <h3>Aim of the study</h3>
     <p>Our project aimed to investigate the relationship between temperature, population density, and land use/land cover patterns in Texas. We sought to understand how variations in temperature relate to population density and the distribution of land use types, such as residential, commercial, industrial, and green spaces.</p>
