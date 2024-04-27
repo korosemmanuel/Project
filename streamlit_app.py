@@ -145,29 +145,7 @@ def main():
 
 <embed id="6381c86c-938e-4aa5-8256-909609c3d21f">
 
-        </body>
-        <footer class="site-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-6 col-md-3">
-                        <h6>Author</h6>
-                        <ul class="footer-author ">
-                            <li>Name: Tianxin Yin (Stark)</li>
-                            <li>Student ID: 1330365249</li>
-                        </ul>
-                    </div>
-                    <hr class="small">
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-sm-6 col-12">
-                            <p class="copyright-text">Copyright © 2022 All Rights Reserved</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        </html>
+       
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
