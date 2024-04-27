@@ -94,7 +94,50 @@ def main():
             <link rel="stylesheet" type="text/css" href="home.css">
         </head>
         <body>
-        <!-- Your HTML content here -->
+        <div style="background-color: #666362;">
+
+    <H1 class="title-row">FINAL PROJECT</H1>
+    <a style="background-color: #666362;"  href="index.html"><h4 class= "page" >Discussion</h4></a>
+   
+
+</div>
+<div id="map"></div>
+<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 100vw;height: 100vh;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
+<h3 style= "color: rgb(9, 127, 236);">Population</h3>
+<p class="text-justify">The Population data provides information about the distribution and 
+    density of human settlements in a geographic area. It typically includes demographic details 
+    such as population count. In this project, population data from the Global Human Settlement 
+    Layer (GHSL) was used. This dataset is valuable for understanding population density, 
+    urbanization patterns, and areas of high human activity, which are essential for analyzing 
+    the impact of weather on human settlements and vulnerability assessment.
+</p>
+<h3 style= "color: rgb(9, 127, 236);">Temperature</h3>
+<p class="text-justify">Temperature data represents historical weather observations related to 
+    temperature, collected from various weather stations worldwide. In this project, 
+    temperature data was obtained from NOAA's Climate Data Online Tool (CDOT). The dataset 
+    includes information on daily temperature readings, such as average temperature. 
+    Analyzing temperature data allows us to understand long-term weather patterns, trends, 
+    and variability, which are crucial for assessing the influence of weather conditions on 
+    human settlements and land cover dynamics.
+</p>
+<h3 style= "color: rgb(9, 127, 236);">Land Use</h3>
+<p class="text-justify">The land use data provides information on how land is utilized 
+    within different regions. The description suggests that land use patterns vary, with urban 
+    areas characterized by dense development and vegetated areas containing forest cover. 
+    This distinction in land use contributes to the observed temperature differences, 
+    with urban areas experiencing higher temperatures due to the prevalence of impervious 
+    surfaces and reduced vegetation cover. Understanding land use patterns helps in assessing the 
+    environmental impact of human activities and informing urban planning decisions aimed at
+     promoting sustainability and resilience.
+</p>
+<div id="map"></div>
+<div style="display: flex; justify-content: space-between;">
+    <iframe style="background: #F1F5F4; border: none; border-radius: 2px; box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2); width: calc(50% - 10px); height: 700px;" src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=ca725242c91d4d7d84c380c308f3c6fc"></iframe>
+    <iframe style="background: #F1F5F4; border: none; border-radius: 2px; box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2); width: calc(50% - 10px); height: 700px;" src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=a2ca9d6f7936493ea06ce7db0d49f944"></iframe>
+</div>
+
+<embed id="6381c86c-938e-4aa5-8256-909609c3d21f">
+
         </body>
         <footer class="site-footer">
             <div class="container">
