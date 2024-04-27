@@ -109,7 +109,7 @@ def main():
 
 </div>
 <div id="map"></div>
-<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 100vw;height: 100vh;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
+<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 1000;height: 1000;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
 <h3 style= "color: rgb(9, 127, 236);">Population</h3>
 <p class="text-justify">The Population data provides information about the distribution and 
     density of human settlements in a geographic area. It typically includes demographic details 
