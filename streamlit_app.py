@@ -7,7 +7,6 @@ st.set_page_config(
 
 st.write("FINAL PROJECT")
 
-st.sidebar.success("Select a demo above.")
 
 def main():
     # Embedding CSS styles
