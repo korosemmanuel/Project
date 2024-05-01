@@ -73,26 +73,6 @@ def main():
         <li>- Evaluate the effectiveness of urban greening strategies and land use policies in mitigating the urban heat island effect and improving local climate conditions.</li>
         <li>- Collaborate with urban planners, policymakers, and community stakeholders to integrate research findings into decision-making processes and sustainable development initiatives aimed at creating healthier and more livable cities.</li>
     </ul>
-        </body>
-        <footer class="site-footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-6 col-md-3">
-
-                        </ul>
-                    </div>
-                    <hr class="small">
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-sm-6 col-12">
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        </html>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
