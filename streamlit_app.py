@@ -6,7 +6,8 @@ st.set_page_config(
 )
 
 st.write("FINAL PROJECT")
-
+st.write("FINAL PROJECT")
+st.write("FINAL PROJECT")
 
 def main():
     # Embedding CSS styles
