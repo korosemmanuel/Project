@@ -6,8 +6,8 @@ st.set_page_config(
 )
 
 st.write("FINAL PROJECT")
-st.write("FINAL PROJECT")
-st.write("FINAL PROJECT")
+st.write("Name: Tianxin Yin (Stark)")
+st.write("Student ID: 1330365249")
 
 def main():
     # Embedding CSS styles
