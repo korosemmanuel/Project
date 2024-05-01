@@ -52,9 +52,6 @@ def main():
 
 <p>In this research project, the goal is to explore the relationship between weather patterns, population density, and land use/land cover types. Specifically, we aim to understand how weather conditions vary across different types of human settlements and landscapes. By examining these relationships, we hope to identify patterns that can inform urban planning, disaster preparedness, and climate resilience strategies.</p>
 
-        </body>
-
-        </html>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
