@@ -137,17 +137,17 @@ def main():
     environmental impact of human activities and informing urban planning decisions aimed at
      promoting sustainability and resilience.
 </p>
-    <h3 style= "color: rgb(9, 127, 236);>Conclusions</h3>
-       <p class="text-justify">The population data provides insights into the distribution of people across different areas. 
-            For example, the description highlights that Harris has the highest population with 
-            approximately 2,835,927 people, followed by Dallas with 1,863,546 people. 
-            This information helps in understanding the demographic characteristics of different regions
-             and their potential impact on various socio-economic factors and public services.The temperature data indicates the thermal conditions in urban and vegetated areas. 
-            The description mentions that urban areas experience higher temperatures, with recorded 
-            highs of 22°C and 20°C. This phenomenon is attributed to the urban heat island effect, where 
-            urbanized areas absorb and retain more heat compared to surrounding rural or vegetated areas. 
-            Conversely, vegetated areas exhibit lower temperatures due to the cooling effect of forest cover.
-   </p>
+<h3 style= "color: rgb(9, 127, 236);">Conclusions</h3>
+<p class="text-justify">The population data provides insights into the distribution of people across 
+    different areas.For example, the description highlights that Harris has the highest population with 
+    approximately 2,835,927 people, followed by Dallas with 1,863,546 people. This information helps in 
+    understanding the demographic characteristics of different regions and their potential impact on various 
+    socio-economic factors and public services.The temperature data indicates the thermal conditions in urban 
+    and vegetated areas. The description mentions that urban areas experience higher temperatures, with recorded 
+    highs of 22°C and 20°C. This phenomenon is attributed to the urban heat island effect, where urbanized areas 
+    absorb and retain more heat compared to surrounding rural or vegetated areas. 
+    Conversely, vegetated areas exhibit lower temperatures due to the cooling effect of forest cover.
+</p>
 
        
     """, unsafe_allow_html=True)
