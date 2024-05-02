@@ -109,7 +109,7 @@ def main():
 
 </div>
 <div id="map"></div>
-<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 100vh;height: 100vh;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
+<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 150vh;height: 100vh;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
 <div id="map"></div>
 <div style="display: flex; justify-content: space-between;">
     <iframe style="background: #F1F5F4; border: none; border-radius: 2px; box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2); width: calc(50% - 10px); height: 700px;" src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=ca725242c91d4d7d84c380c308f3c6fc"></iframe>
