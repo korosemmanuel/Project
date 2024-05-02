@@ -110,7 +110,6 @@ def main():
 
 </div>
 <div id="map"></div>
-<iframe style="background: #F1F5F4;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);width: 100vh;height: 100vh;"  src="https://charts.mongodb.com/charts-mongoheroku-fippb/embed/dashboards?id=bda286af-9e3b-4db5-aeb8-5b199d18c824&theme=light&autoRefresh=true&maxDataAge=3600&showTitleAndDesc=false&scalingWidth=fixed&scalingHeight=fixed"></iframe>
 <h3 style= "color: rgb(9, 127, 236);">Population</h3>
 <p class="text-justify">The Population data provides information about the distribution and 
     density of human settlements in a geographic area. It typically includes demographic details 
@@ -138,13 +137,7 @@ def main():
     environmental impact of human activities and informing urban planning decisions aimed at
      promoting sustainability and resilience.
 </p>
-<div id="map"></div>
-<div style="display: flex; justify-content: space-between;">
-    <iframe style="background: #F1F5F4; border: none; border-radius: 2px; box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2); width: calc(50% - 10px); height: 700px;" src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=ca725242c91d4d7d84c380c308f3c6fc"></iframe>
-    <iframe style="background: #F1F5F4; border: none; border-radius: 2px; box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2); width: calc(50% - 10px); height: 700px;" src="https://nu.maps.arcgis.com/apps/instant/basic/index.html?appid=a2ca9d6f7936493ea06ce7db0d49f944"></iframe>
-</div>
 
-<embed id="6381c86c-938e-4aa5-8256-909609c3d21f">
 
        
     """, unsafe_allow_html=True)
